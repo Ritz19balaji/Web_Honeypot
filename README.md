@@ -46,13 +46,8 @@ kill -9 <PID>
 ## Logs
 All login attempts and attack alerts are stored in `honeypot.log`.
 
-## Future Improvements
-- Implement email alerts for attack notifications
-- Add IP blocking mechanism for repeated attacks
-
 ## Disclaimer
 This honeypot is for educational and security research purposes only. Deploying it on a live network may have legal implications. Use responsibly!
 
----
-Developed by **Rithika** 🚀
+
 
